@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "517397188590",
+    "firebase_url": "https://arduinodemo-c1c05.firebaseio.com",
+    "project_id": "arduinodemo-c1c05",
+    "storage_bucket": "arduinodemo-c1c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517397188590:android:8b06ea0d9f7df61a",
+        "android_client_info": {
+          "package_name": "vn.edu.uit.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517397188590-bk32j56qc0m24euagfaj132j2pvunc8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1Tivy_N3nlwy-CJ4P10Ti5ItlXlBvxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517397188590:android:b908dadbd6962c0c",
+        "android_client_info": {
+          "package_name": "com.example.hoaiv.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517397188590-bk32j56qc0m24euagfaj132j2pvunc8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1Tivy_N3nlwy-CJ4P10Ti5ItlXlBvxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517397188590:android:edc385f823935589",
+        "android_client_info": {
+          "package_name": "com.example.lethuan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517397188590-bk32j56qc0m24euagfaj132j2pvunc8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1Tivy_N3nlwy-CJ4P10Ti5ItlXlBvxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
